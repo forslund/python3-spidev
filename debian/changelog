@@ -1,0 +1,5 @@
+python3-spidev (3.5.0) focal; urgency=medium
+
+  * Initial release.
+
+ -- Åke Forslund <ake.forslund@gmail.com>  Sun, 5 Feb 2021 17:05:00 +0100

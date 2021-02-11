@@ -1,0 +1,12 @@
+Source: python3-spidev
+Maintainer: Åke Forslund <ake.forslund@gmail.com>
+Build-Depends: debhelper,dh-python,python3-all,python3-setuptools
+Section: devel
+Priority: optional
+Standards-Version: 3.9.6
+X-Python3-Version: >= 3.6
+
+Package: python3-spidev
+Architecture: arm64
+Description: Python module for interfacing with SPI devices from user space via the spidev linux kernel driver.
+Depends: ${python3:Depends}
